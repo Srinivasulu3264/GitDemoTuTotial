@@ -15,6 +15,7 @@
 		86EF73691F592ECC00DBD25F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86EF73671F592ECC00DBD25F /* LaunchScreen.storyboard */; };
 		86EF73741F592ECC00DBD25F /* GitXcodeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 86EF73731F592ECC00DBD25F /* GitXcodeTests.m */; };
 		86EF737F1F592ECC00DBD25F /* GitXcodeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 86EF737E1F592ECC00DBD25F /* GitXcodeUITests.m */; };
+		86EF738E1F59320600DBD25F /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 86EF738D1F59320600DBD25F /* HomeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		86EF737A1F592ECC00DBD25F /* GitXcodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitXcodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		86EF737E1F592ECC00DBD25F /* GitXcodeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitXcodeUITests.m; sourceTree = "<group>"; };
 		86EF73801F592ECC00DBD25F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86EF738C1F59320600DBD25F /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		86EF738D1F59320600DBD25F /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				86EF735D1F592ECC00DBD25F /* AppDelegate.m */,
 				86EF735F1F592ECC00DBD25F /* ViewController.h */,
 				86EF73601F592ECC00DBD25F /* ViewController.m */,
+				86EF738C1F59320600DBD25F /* HomeViewController.h */,
+				86EF738D1F59320600DBD25F /* HomeViewController.m */,
 				86EF73621F592ECC00DBD25F /* Main.storyboard */,
 				86EF73651F592ECC00DBD25F /* Assets.xcassets */,
 				86EF73671F592ECC00DBD25F /* LaunchScreen.storyboard */,
@@ -279,6 +284,7 @@
 				86EF73611F592ECC00DBD25F /* ViewController.m in Sources */,
 				86EF735E1F592ECC00DBD25F /* AppDelegate.m in Sources */,
 				86EF735B1F592ECC00DBD25F /* main.m in Sources */,
+				86EF738E1F59320600DBD25F /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
