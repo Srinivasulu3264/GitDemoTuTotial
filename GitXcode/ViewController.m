@@ -18,7 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"hello World");
-    NSLog(@"Welcome to GitXcode");
+    NSLog(@"homeVc added");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
